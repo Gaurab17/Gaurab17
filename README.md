@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Gaurab Stha😇</h1>
 <h3 align="center">A passionate person aiming to be a skillful Full Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurab17&label=Profile%20views&color=0e75b6&style=flat" alt="gaurab17" /> </p>
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" width="250" > 
-<p align="left"> <a href="https://twitter.com/gaurab01579279" target="blank"><img src="https://img.shields.io/twitter/follow/gaurab01579279?logo=twitter&style=for-the-badge" alt="gaurab01579279" /></a> </p>
+
 
 - 🔭 I’m currently working on [House Rent Management](https://github.com/Gaurab17/House-Rent-Manager)
 
