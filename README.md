@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **gaurabstha001@gmail.com**
 
