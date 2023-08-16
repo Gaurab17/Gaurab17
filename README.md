@@ -10,6 +10,9 @@
 
 - 📫 How to reach me **gaurabstha001@gmail.com**
 
+## Visitor Count
+![VisitorCount](https://profile-counter.glitch.me/GaurabShrestha/count.svg)
+
 
 ## 👨‍💻 Programming languages and tools I'm familiar with
 
