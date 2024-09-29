@@ -1,14 +1,6 @@
 <h1 align="center">Hi👋, I'm Gaurab Shrestha</h1>
 <h1 align="center"><img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" alt="coding" width="200" > </h1>
-<h2 align="center">A passionate person aiming to be a skillful Full Stack Developer.</h2>
-
-- 🔭 I recently worked on [House Rent Management](https://github.com/Gaurab17/House-Rent-Manager)
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 🌱 I’m currently learning **Node JS**
-
-- 📫 How to reach me **gaurabstha001@gmail.com**
+<h2 align="center">Software Engineer</h2>
 
 ## Visitor Count
 ![VisitorCount](https://profile-counter.glitch.me/GaurabShrestha/count.svg)
