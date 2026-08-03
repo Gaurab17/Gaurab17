@@ -8,4 +8,5 @@
 <a href="https://fb.com/gaurabstha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurabstha17" height="30" width="40" /></a>
 <a href="https://instagram.com/gaurab_sth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurab_sth" height="30" width="40" /></a>
 <a href="https://dribbble.com/gaurabstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gaurabstha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gaurabstha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="gaurabstha" height="30" width="40" /></a>
 </p>
